@@ -1,6 +1,8 @@
 ## About
 
-This repository is for learning how to use icon font libraries in a React.js (Next.js) project.
+This project is for learning how to use icon font libraries in a React.js (Next.js) project.
+https://algolkk.github.io/FontIcon_Learning/
+
 ![Image description](./assets/image.png)
 
 ## Technology
@@ -11,4 +13,5 @@ This repository is for learning how to use icon font libraries in a React.js (Ne
 ## Reference
 
 -   https://react-icons.github.io/react-icons/
--   [【React】React Icons でアイコンを使ってみる - Qiita](https://qiita.com/pikimaru/items/bffc051a248f8e2ab2b2)
+-   [【React】React Icons でアイコンを使ってみる](https://qiita.com/pikimaru/items/bffc051a248f8e2ab2b2)
+-   [2023年8月版: Next.jsをGitHub ActionsでGitHub Pagesにデプロイする方法](https://zenn.dev/pino0701/articles/nextjs_github_pages)
