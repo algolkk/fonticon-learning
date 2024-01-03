@@ -1,6 +1,6 @@
 ## About
 
-This project is for learning how to use icon font libraries in a React.js (Next.js) project.
+This project is for learning how to use icon font libraries in a React (Next.js) project.
 https://algolkk.github.io/fonticon-learning/
 
 ![Image description](./assets/image.png)
